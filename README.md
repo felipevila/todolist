@@ -1,2 +1,2 @@
 # todolist
-ToDo List with ReEACT
+ToDo List with REACT
